@@ -73,3 +73,7 @@ El análisis reveló varios insights clave:
 
 Estos hallazgos sugieren que la empresa de telecomunicaciones debería enfocarse en expandir la infraestructura de fibra óptica en áreas rurales, mientras continúa mejorando la calidad del servicio en los centros urbanos.
 
+
+## Conclusion de Trabajo 
+
+El análisis de los datos de telecomunicaciones presentó algunos retos que me llevaron a ser muy cuidadoso en cada paso. Organizar y limpiar la información proveniente de diversas fuentes fue uno de los mayores desafíos, ya que fue necesario unificar los datos para garantizar que todo estuviera en un formato coherente y fácil de entender. Este proceso fue fundamental para calcular correctamente los indicadores clave. Además, los gráficos que creé ayudaron a visualizar la información de manera clara, facilitando la interpretación de los datos y permitiendo identificar tendencias importantes. Gracias a este enfoque, pude obtener resultados útiles y ofrecer recomendaciones valiosas para mejorar los servicios de telecomunicaciones.
